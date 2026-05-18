@@ -1,0 +1,42 @@
+{
+  "001:1": {
+    "conversation_id": "001",
+    "turn_index": 1,
+    "accurate": true,
+    "off_topic": false,
+    "fabricated": false,
+    "note": "test",
+    "ai_reason": "回复内容与用户问题相关且真实",
+    "updated_at": "2026-05-18T07:33:41.157678Z"
+  },
+  "002:1": {
+    "conversation_id": "002",
+    "turn_index": 1,
+    "accurate": true,
+    "off_topic": false,
+    "fabricated": false,
+    "note": "自动化测试",
+    "ai_reason": "回复内容准确且相关",
+    "updated_at": "2026-05-18T07:41:12.859111Z"
+  },
+  "003:1": {
+    "conversation_id": "003",
+    "turn_index": 1,
+    "accurate": true,
+    "off_topic": false,
+    "fabricated": false,
+    "note": "",
+    "ai_reason": "回复内容准确且未跑题",
+    "updated_at": "2026-05-18T07:42:52.480534Z"
+  },
+  "004:1": {
+    "conversation_id": "004",
+    "turn_index": 1,
+    "accurate": true,
+    "off_topic": false,
+    "fabricated": false,
+    "note": "",
+    "ai_reason": "客服回复内容与用户问题相关且真实",
+    "updated_at": "2026-05-18T07:55:39.669872Z"
+  }
+}
