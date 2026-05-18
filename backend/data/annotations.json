@@ -38,5 +38,55 @@
     "note": "",
     "ai_reason": "客服回复内容与用户问题相关且真实",
     "updated_at": "2026-05-18T07:55:39.669872Z"
+  },
+  "005:1": {
+    "conversation_id": "005",
+    "turn_index": 1,
+    "accurate": true,
+    "off_topic": false,
+    "fabricated": false,
+    "note": "",
+    "ai_reason": "回复信息准确且相关",
+    "updated_at": "2026-05-18T08:21:20.251422Z"
+  },
+  "007:1": {
+    "conversation_id": "007",
+    "turn_index": 1,
+    "accurate": true,
+    "off_topic": false,
+    "fabricated": false,
+    "note": "",
+    "ai_reason": "回复内容与用户问题相关且真实",
+    "updated_at": "2026-05-18T08:21:34.556517Z"
+  },
+  "015:1": {
+    "conversation_id": "015",
+    "turn_index": 1,
+    "accurate": false,
+    "off_topic": false,
+    "fabricated": false,
+    "note": "",
+    "ai_reason": "回复未直接回答用户问题",
+    "updated_at": "2026-05-18T08:21:45.772596Z"
+  },
+  "014:1": {
+    "conversation_id": "014",
+    "turn_index": 1,
+    "accurate": true,
+    "off_topic": false,
+    "fabricated": false,
+    "note": "",
+    "ai_reason": "客服回复与用户问题相关，信息真实",
+    "updated_at": "2026-05-18T08:21:51.614620Z"
+  },
+  "013:1": {
+    "conversation_id": "013",
+    "turn_index": 1,
+    "accurate": true,
+    "off_topic": false,
+    "fabricated": false,
+    "note": "",
+    "ai_reason": "回复提供了具体活动时间及优惠信息",
+    "updated_at": "2026-05-18T08:21:55.506801Z"
   }
 }
